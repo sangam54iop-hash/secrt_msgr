@@ -29,4 +29,5 @@ while kada:
 
                         if response=="no":
                             kada = False
+                            print("thank you")
 
